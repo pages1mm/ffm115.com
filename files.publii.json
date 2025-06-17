@@ -1,0 +1,292 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "61ff731fc3232f3c37ec9d7e0e0ab333"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "c610d75fd2d83296e11d8860f4b9cf16"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "92c671832a9e02419b9647ae0a482c25"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "7b86bf805c84cea57658efdc5e8f58dc"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "6163ec009b55946ce2430d1fe34cff4d"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "1b09dc64eb6086ddc9720890661ff038"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "e5e4ced5be7f2e5a37bf8605130fe0aa"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "777b8dd8567e93fb9668f9c7cc194dfe"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/ffm115",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/ffm115/index.html",
+        "type": "file",
+        "md5": "34cd4effd1a8c66dcbfb0fd939b44247"
+    },
+    {
+        "path": "contact.html",
+        "type": "file",
+        "md5": "08aba46c4a7e145c3fd374307a83106b"
+    },
+    {
+        "path": "ethical-journalism-why-responsible-news-coverage-matters-in-todays-media-landscape.html",
+        "type": "file",
+        "md5": "402b19c7c65bdedf55a886b3e447acf2"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "e0d842f2ea1beb06272e816059e6452e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "02ba6b82646ee4e8f9431e00acf3779d"
+    },
+    {
+        "path": "how-breaking-news-spreads-from-source-to-screen-in-the-age-of-misinformation.html",
+        "type": "file",
+        "md5": "592e1ad5886c2aa967c4eceed9336749"
+    },
+    {
+        "path": "how-to-spot-fake-news-stay-informed-with-reliable-sources-you-can-trust.html",
+        "type": "file",
+        "md5": "cc98b5d1447a6e63fc4f9cda532e5e3c"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "28541b6f7315de0dd439f71987e6d96b"
+    },
+    {
+        "path": "investigative-journalism-key-skills-and-challenges-to-uncover-the-truth.html",
+        "type": "file",
+        "md5": "691325cdd821228e94a3513ea0579ee5"
+    },
+    {
+        "path": "mastering-how-to-write-engaging-news-stories-that-keep-readers-hooked-key-techniques-and-tips.html",
+        "type": "file",
+        "md5": "c2df6e8a76a8e5c7b6670a9428a18607"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/cover.png",
+        "type": "file",
+        "md5": "de204b735e000ac30987afc8a05ee1b2"
+    },
+    {
+        "path": "media/authors/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "0ca57bf5f1aafdec889167e7a2394ac2"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-md.png",
+        "type": "file",
+        "md5": "1e115e0cd8b92090e4a3f9fbfb4ba14e"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "589f924b06b4047c2c86d854e9be675a"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "b0070e38d8bc56e32458cc91131f2159"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/cover-2.png",
+        "type": "file",
+        "md5": "de204b735e000ac30987afc8a05ee1b2"
+    },
+    {
+        "path": "/media/website/cover.png",
+        "type": "file",
+        "md5": "de204b735e000ac30987afc8a05ee1b2"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "/media/website/profile.png",
+        "type": "file",
+        "md5": "9e71025744b8ca949cd5adc3b782811a"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/cover-2-sm.png",
+        "type": "file",
+        "md5": "589f924b06b4047c2c86d854e9be675a"
+    },
+    {
+        "path": "/media/website/responsive/cover-2-xs.png",
+        "type": "file",
+        "md5": "b0070e38d8bc56e32458cc91131f2159"
+    },
+    {
+        "path": "/media/website/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "589f924b06b4047c2c86d854e9be675a"
+    },
+    {
+        "path": "/media/website/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "b0070e38d8bc56e32458cc91131f2159"
+    },
+    {
+        "path": "/media/website/responsive/profile-sm.png",
+        "type": "file",
+        "md5": "efb44195af7bf99217834169e1590166"
+    },
+    {
+        "path": "/media/website/responsive/profile-xs.png",
+        "type": "file",
+        "md5": "8d9f47d0d920032a4d39c7911b389298"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "fb43b8656c2337ab4364e6f73601ebe6"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "ae6f29378ba86ee52e2645ccb1edc319"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "stay-updated-with-real-time-news-alerts-tips-for-effective-feeds-and-notifications.html",
+        "type": "file",
+        "md5": "3c10950cbdc322ad25cf2de51c2c4145"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "b09ccbf4174680325b2fda9ae326ed44"
+    },
+    {
+        "path": "the-future-of-digital-news-key-trends-shaping-the-industry-you-need-to-know.html",
+        "type": "file",
+        "md5": "0ef8269c6c504fee783c46bef7584ce6"
+    },
+    {
+        "path": "the-impact-of-social-media-on-modern-journalism-opportunities-and-challenges-explored.html",
+        "type": "file",
+        "md5": "0d1de3f5eff6b2647a2794d901c7ab78"
+    },
+    {
+        "path": "the-role-of-ai-in-news-reporting-and-media-analysis-innovations-challenges-and-future-trends.html",
+        "type": "file",
+        "md5": "3fdd40f25f9332bd27fe50071a5969d1"
+    },
+    {
+        "path": "unlocking-the-power-of-headlines-tips-for-writing-attention-grabbing-news-titles.html",
+        "type": "file",
+        "md5": "7e9ab1ae780b708243b9789d501d8c34"
+    }
+]

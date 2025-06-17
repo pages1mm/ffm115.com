@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ffm115.com/sitemap.xml
